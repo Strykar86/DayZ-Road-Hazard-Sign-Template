@@ -2,7 +2,7 @@
 A simple and clean template for creating custom static signs for your DayZ server or mod.
 
 Your Server Pack config would look similar to this:
-
+```
 class CfgPatches
 {
 	class MyServerPack
@@ -44,3 +44,5 @@ class CfgVehicles
 		};
 	};
 };
+```
+
