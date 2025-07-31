@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class RoadHazardSign_Core // This name is important for the dependency.
+	class RoadHazardSign // This name is important for the dependency.
 	{
 		units[]={};
 		weapons[]={};
