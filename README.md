@@ -29,7 +29,7 @@ class CfgVehicles
 		// It only overrides the texture. All other properties are inherited.
 		hiddenSelectionsTextures[] = 
 		{
-			"MyCustomSigns\data\my_cool_texture1.paa" 
+			"MyServerPack\data\textures\my_cool_texture1.paa" 
 		};
 	};
  	class MyAwesomeSign2 : RoadHazardSign_Base
@@ -40,7 +40,7 @@ class CfgVehicles
 		// It only overrides the texture. All other properties are inherited.
 		hiddenSelectionsTextures[] = 
 		{
-			"MyCustomSigns\data\my_cool_texture2.paa" 
+			"MyServerPack\data\textures\my_cool_texture2.paa" 
 		};
 	};
 };
